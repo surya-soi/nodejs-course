@@ -1,0 +1,23 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "This is nodejs course",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surya-soi/nodejs-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/surya-soi/nodejs-course/issues"
+  },
+  "homepage": "https://github.com/surya-soi/nodejs-course#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
